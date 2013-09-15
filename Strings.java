@@ -6,11 +6,6 @@ public class Strings {
 
 		System.out.println("This string is " + isAbecedarian(abecArray));
 
-		// if ('c' > 'd') {
-		// 	System.out.println("C greater than D.");
-		// } else {
-		// 	System.out.println("D greater than C.");
-		// }
 	}
 	public static boolean isAbecedarian(char[] localArray) {
 	
